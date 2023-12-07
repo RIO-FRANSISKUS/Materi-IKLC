@@ -1,0 +1,25 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BANGKIT2023/RumahAdatApps/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.137" />
+        <entry key="..\:/BANGKIT2023/RumahAdatApps/app/src/main/res/drawable/ic_bacground.xml" value="0.176" />
+        <entry key="..\:/BANGKIT2023/RumahAdatApps/app/src/main/res/drawable/ic_bacground2.xml" value="0.176" />
+        <entry key="..\:/BANGKIT2023/RumahAdatApps/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.176" />
+        <entry key="..\:/BANGKIT2023/RumahAdatApps/app/src/main/res/drawable/ic_launcher_background.xml" value="0.137" />
+        <entry key="..\:/BANGKIT2023/RumahAdatApps/app/src/main/res/layout/activity_about.xml" value="0.21784420289855072" />
+        <entry key="..\:/BANGKIT2023/RumahAdatApps/app/src/main/res/layout/activity_main.xml" value="0.21784420289855072" />
+        <entry key="..\:/BANGKIT2023/RumahAdatApps/app/src/main/res/layout/activity_rumah_adat_detail.xml" value="0.264" />
+        <entry key="..\:/BANGKIT2023/RumahAdatApps/app/src/main/res/layout/activity_splash_screen.xml" value="0.264" />
+        <entry key="..\:/BANGKIT2023/RumahAdatApps/app/src/main/res/layout/item_row_rumah_adat.xml" value="0.264" />
+        <entry key="..\:/BANGKIT2023/RumahAdatApps/app/src/main/res/menu/about.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" default="true" project-jdk-name="16" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

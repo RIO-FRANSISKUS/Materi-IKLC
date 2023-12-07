@@ -1,0 +1,146 @@
+<resources>
+    <string name="app_name">Rumah Adat di Indonesia</string>
+
+    <string name="rumah_adat_name">Nama Rumah Adat</string>
+    <string name="rumah_adat_origin">Asal Rumah adat</string>
+    <string name="description">Deskripsi</string>
+    <string name="share">share</string>
+    <string name="filosofi">Filosofi</string>
+    <string name="desc_filosofi">Description</string>
+
+    <string name="about">About</string>
+    <string name="nama">Rio Fransiskus Simanjuntak</string>
+    <string name="email">richardjuntaktombuk16@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Krong Bade</item>
+        <item>Bolon</item>
+        <item>Gadang</item>
+        <item>Selaso Jatuh Kembar</item>
+        <item>Panggung Kajang Leko</item>
+        <item>Bubungan Lima</item>
+        <item>Limas</item>
+        <item>Nuwo Sesat</item>
+        <item>Badui/Baduy</item>
+        <item>Kebaya</item>
+    </string-array>
+
+    <string-array name="data_origin">
+        <item>Rumah Adat Aceh</item>
+        <item>Rumah Adat Sumatera Utara</item>
+        <item>Rumah Adat Sumatera Barat</item>
+        <item>Rumah Adat Riau</item>
+        <item>Rumah Adat Jambi</item>
+        <item>Rumah Adat Bengkulu</item>
+        <item>Rumah Adat Sumatera Selatan</item>
+        <item>Rumah Adat Lampung</item>
+        <item>Rumah Adat Banten</item>
+        <item>Rumah Adat Betawi</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Orang Aceh memiliki citarasa seni yang sangat baik. Salah satunya terlihat pada rumah khas Krong Bade. Rumah panggung dengan satu tangga di depan ini memiliki perpaduan warna yang cantik. Rumah Krong Bade biasa dikenal juga dengan nama rumoh Aceh. Rumah adat ini jadi salah satu budaya Indonesia yang hampir punah.Rumah adat ini punya tangga di bagian depan rumah dan tingginya berada beberapa meter dari tanah. Jumlah anak tangga rumah adat Krong Bade biasanya berjumlah ganjil. Bahan dasar pembangunan rumahnya adalah kayu, dengan banyak ukiran di dinding rumah. Atap rumahnya terbuat dari daun rumbia dan bentuknya persegi panjang, memanjang dari timur ke barat.</item>
+        <item>Bolon merupakan rumah khas Suku Batak di Sumatera Utara. Di Sumatera Utara sendiri Bolon terdiri dari beberapa jenis seperti Bolon Simalungun, Bolon Pakpak, Bolon Angkota, Bolon Karo, dan lainnya.Dengan bentuk rumah panggung persegi panjang, rumah Bolon biasanya dilengkapi tiang penyangga setinggi 1,75 meter. Untuk masuk ke rumah, penghuni atau tamu harus naik tangga yang jumlahnya selalu ganjil.Ciri khas rumah adat ini adalah bentuknya panggung, terdiri dari beberapa tiang penyangga bergaris tengah. Dinding rumahnya dihiasi dengan ornamen khas Simalungun dengan warna merah, putih, dan hitam. Hiasan ornamen ini adalah lambang akan pandangan kosmologis dan filosofi budaya suku Batak.</item>
+        <item>Sampai hari ini, Rumah Gadang khas Sumatera Barat masih banyak ditemui di provinsi ini. Rumah Gadang atau rumah godang adalah rumah adat Minangkabau. Ornamen rumah ini juga banyak ditemui di seluruh Indonesia, khususnya di rumah makan Padang.Rumah adat ini punya bentuk puncak atap yang runcing, menyerupai tanduk kerbau. Dulunya atap ini dibuat dari bahan ijuk dan bisa bertahan sampai puluhan tahun. Tetapi belakangan, atap rumah banyak berganti dengan seng.Rumahnya dibangun dengan bentuk empat persegi panjang, dibagi atas 2 bagian yakni depan dan belakang. Bagian depan biasanya penuh dengan ukiran ornamen bermotif akar, bunga, dan daun. Sedangkan bagian luar belakang dilapisi belahan bambu.</item>
+        <item>Riau memiliki beberapa jenis rumah adat, salah satunya adalah Selaso Jatuh Kembar yang paling terkenal. Nama ini diadopsi dari bentuk bangunan yang memiliki dua selasar. Selasar rumah panggung ini memiliki posisi lebih rendah dibanding ruang tengah dan biasanya dijadikan tempat musyawarah.Rumah adat ini memiliki ciri khas yakni berbentuk rumah panggung atau memiliki kolong. Di dalam rumah hanya ada sekat yang memisahkan ruang tengah dan ruang telo (tempat menyimpan makanan), tidak ada ruangan atau kamar-kamar.Bahan bangunannya terbuat dari alam, seperti atap dari daun rumbia, lalu dinding, tiang atau lantai dari kayu-kayu berkualitas baik seperti kayu meranti, kayu medang, atau kayu punak.</item>
+        <item>Perpaduan warna kuning dan merah di rumah adat Jambi ini membuat penampilannya terlihat cantik. Salah satu hal menarik dari rumah ini adalah pemetaan rumah yang terdiri dari delapan ruang.Konsep pembagian ruang ini bisa diterapkan juga dalam rumah masa kini. Ruang serambi dalam, yang terdiri dari ruang tiru orangtua dan kamar tidur anak gadis, dan ruang makan, disebut ruang balik menahan.Bagian atapnya dinamai “Gajah Mabuk”, sesuai dengan nama pembuat desainnya. Bentuknya seperti perahu dengan ujung atas yang melengkung. Sementara bagian langit-langit dibuat dari tebar layar atau semacam plafon yang memisahkan ruang loteng dengan ruang di bawahnya. Ruang loteng ini digunakan sebagai ruang penyimpanan.</item>
+        <item>Ciri khas rumah adat Bubungan Lima ini salah satunya terletak dari bentuk atapnya yang tampak seperti bertumpuk-tumpuk. Wiranata dkk. dalam jurnal ilmiahnya yang berjudul “Rancang Bangun Permainan Android Tiga Dimensi Teka Teki Rumah Bubungan Lima dengan Metode Kecerdasan Buatan” menyebutkan bahwa nama Bubungan Lima merujuk pada bentuk atapnya. Selain itu, bahan pembuat atapnya adalah ijuk pohon enau. Namun seiring berjalannya waktu, bahan pembuat atap sudah berganti dengan seng.</item>
+        <item>Dari namanya Rumah Limas pastinya kita sudah tahu pasti bahwa rumah ini pasti berbentuk limas. Bangunan rumah adat ini punya lantai yang bertingkat-tingkat yang merepresentasikan filosofi budaya masyarakat setempat, biasa disebut bengkilas. Dari jauh, rumah ini nampak seperti rumah panggung dengan tiang-tiang tertancap ke tanah.Rumah adat ini punya luas mulai dari 400 – 1000 m2 dan biasanya digunakan untuk hajatan atau acara adat. Rangka rumah adat terbuat dari kayu seru yang cukup langka. Bahan material untuk membuat dinding, lantai, dan pintunya menggunakan kayu tembesu. Sedangkan untuk tiang rumah menggunakan kayu unglen yang tahan air. </item>
+        <item>Nuwo Sesat memiliki fungsi sebagai tempat utama untuk pertemuan adat bagi para purwatin atau penyeimbang saat sedang mengadakan musyawarah adat. Rumah adat Nuwo Sesat ini disebut juga sebagai Balai Agung.Secara fisiknya, Nuwo Sesat berbentuk rumah panggung bertiang dan sebagian besar dari rumah adat ini dibuat dengan menggunakan material papan kayu. Pada awalnya, rumah Nuwo Sesat mempunyai atap yang berbahan dasar anyaman ilalang. Namun, saat ini atapnya sudah digantikan dengan genting untuk menyesuaikan dengan perubahan zaman.</item>
+        <item>Rumah adat dari provinsi Banten ini dimiliki oleh suku Badui, kelompok etnis masyarakat adat suku di Banten. Bentuk rumahnya sering disebut juga dengan Julang Ngapak dan gaya bangunannya seperti rumah panggung.Bagian atap terdiri dari daun yang disebut sulah nyanda dan bagian bilik rumah dan pintu dibuat dari anyaman bambu yang disusun secara vertikal, dikenal dengan nama sarigsig. Selain itu, rumah adat Baduy dibagi dalam 3 bagian, yakni sosoro (depan), tepas (tengah), dan imah (belakang).</item>
+        <item>Rumah adat betawi memiliki nama Kebaya. Disebut sebagai rumah kebaya karena bentuk atapnya yang mirip pelana yang dilipat dan jika dilihat dari samping, lipatan-lipatan itu mirip dengan lipatan kebaya. Sampai sekarang, ornamen rumah tradisional dari Betawi ini masih sering dipakai, yaitu bagian lis ukiran di bawah genteng.Pemasangan lis khas Betawi tersebut adalah cara paling mudah untuk menunjukkan ciri khas rumah tradisional Jakarta. Atap rumahnya terbuat dari genteng atau atep (daun kirai yang dianyam), dinding depan dengan kayu gowok/kayu nangka, dinding rumah lainnya dengan anyaman bambu, dan pondasi yang digunakan adalah batu kali.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/krong_bade</item>
+        <item>@drawable/bolon</item>
+        <item>@drawable/gadang</item>
+        <item>@drawable/selaso_jatuh_kembar</item>
+        <item>@drawable/panggung_kajang_leko</item>
+        <item>@drawable/bubungan_lima</item>
+        <item>@drawable/limas</item>
+        <item>@drawable/nuwo_sesat</item>
+        <item>@drawable/badui</item>
+        <item>@drawable/kebaya</item>
+    </string-array>
+
+    <string-array name="data_source">
+        <item>https://id.wikipedia.org/wiki/Rumah_Krong_Bade</item>
+        <item>https://id.wikipedia.org/wiki/Ruma_Bolon</item>
+        <item>https://en.wikipedia.org/wiki/Rumah_Gadang</item>
+        <item>https://id.wikipedia.org/wiki/Rumah_adat_Selaso_Jatuh_Kembar</item>
+        <item>https://id.wikipedia.org/wiki/Rumah_Panggung_Kajang_Lako</item>
+        <item>https://id.wikipedia.org/wiki/Rumah_Bubungan_Lima</item>
+        <item>https://id.wikipedia.org/wiki/Rumah_Limas</item>
+        <item>https://id.wikipedia.org/wiki/Nuwo_Sesat</item>
+        <item>https://id.wikipedia.org/wiki/Rumah_adat_Badui</item>
+        <item>https://id.wikipedia.org/wiki/Rumah_kebaya</item>
+    </string-array>
+
+    <string-array name="data_image1">
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaXkNLOzvJmwqLmnW5wtPSRjaE7VeBST2QztF7Md5mUjPHHV4WIKUNSXV-NKPZ1crGjvw&amp;usqp=CAU</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-jhPBOdEnJc86bJMGlNMdtR0W050AtSI1qw&amp;usqp=CAU</item>
+        <item>https://asset.kompas.com/crops/ZG4UWTLI1EhaBaRqq1zcWxNGhlA=/0x0:1000x667/750x500/data/photo/2020/08/28/5f48688bddfb2.jpg</item>
+        <item>https://www.andalastourism.com/wp-content/uploads/2021/03/Keunikan-Balai-Selaso-Jatuh-Kembar.jpg</item>
+        <item>https://asset.kompas.com/crops/0JAuNVZOxyKTA05SQNPtmdA4tB0=/99x0:688x393/750x500/data/photo/2022/01/08/61d8f4d0c926b.jpeg</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5gLjNG34MXilLwjfLGuuJbY2WAh0Gc9SPNTcdP1qRQb8Q2m_EQEGkMnOnBsgUCElX12w&amp;usqp=CAU</item>
+        <item>https://i0.wp.com/www.romadecade.org/wp-content/uploads/2021/10/Filosofi-5-Tingkatan-Ruang-Kekijing-dalam-Rumah-Adat-Limas.jpg?w=759&amp;ssl=1</item>
+        <item>https://o-cdn-cas.sirclocdn.com/parenting/images/rumah_adat_lampung_nuwo_sesat.width-800.format-webp.webp</item>
+        <item>https://akcdn.detik.net.id/community/media/visual/2017/10/17/ce20db5a-c412-4d9b-922a-4627c870abb7_169.jpg?w=700&amp;q=90</item>
+        <item>https://img.celebrities.id/okz/800/op536B/master_J005L0nl1f_1839_keunikan_rumah_kebaya_adat_betawi.jpg</item>
+    </string-array>
+
+    <string-array name="data_image2">
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxPDfUDdDqyFMG7aH6aGZMKXiosf1SJ6_54HDOcisaZFmv4GCZxp0RGa--SbzAUo8KT8&amp;usqp=CAU</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_Batak_house.jpg/1200px-Traditional_Batak_house.jpg</item>
+        <item>https://asset.kompas.com/crops/aijH3h3twHTJ5X_I8-Ob3QTY-eg=/0x0:780x390/780x390/data/photo/2013/02/04/1413126-gonjong-atap-rumah-adat-minang-kawasan-nagari-1000-rumah-gadang-780x390.jpg</item>
+        <item>https://www.andalastourism.com/wp-content/uploads/2021/03/Filosofi-Rumah-Adat-Selaso-Jatuh-Kembar.jpg</item>
+        <item>https://asset.kompas.com/crops/Z7rBGEA-KnKuLtf6jNuVO-mEq3M=/20x15:464x311/750x500/data/photo/2021/01/14/60001c0fbd4aa.jpg</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_bXuu095IfeugsrHI6J0sxx7Jqa0qOYSkcDS9SqJtENxjOXgKNL2vt0xVSnfrhhcexiY&amp;usqp=CAU</item>
+        <item>https://i0.wp.com/www.romadecade.org/wp-content/uploads/2021/10/rumah-adat-limas.jpg?w=750&amp;ssl=1</item>
+        <item>https://o-cdf.sirclocdn.com/unsafe/o-cdn-cas.sirclocdn.com/parenting/images/rumah_adat_lampung.width-800.format-webp.webp</item>
+        <item>https://cdn-cms.pgimgs.com/static/2020/10/Rumah-Adat-Baduy-3.png</item>
+        <item>https://www.nesiatimes.com/wp-content/uploads/2019/11/IMG_20191108_165859.jpg</item>
+    </string-array>
+
+    <string-array name="data_image3">
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4OXuAkE1N8e1xRo-cw2M_ox8WipkkiaPvRJoAiZrGZQSOH73MIe-h-H8NbEjMzlpVpfs&amp;usqp=CAU</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7dvDPlbIPH5r20rZoGHyAny8f5hWhcoCHYA&amp;usqp=CAU</item>
+        <item>https://asset.kompas.com/crops/xCmIDGPNnoSsAvpKy3iLQj98_mQ=/8x18:682x468/750x500/data/photo/2017/06/29/1362024705.jpg</item>
+        <item>https://www.andalastourism.com/wp-content/uploads/2021/03/Proses-Pembuatan-Rumah-Selaso-Jatuh-Kembar.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kajang_Leko_Rumah_adat_Jambi.jpg/392px-Kajang_Leko_Rumah_adat_Jambi.jpg</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvuyOgr1j2KiuUUZY0520OBvV5gm_KXh3EBsW2JZ_qDU4vWkgOdlQ9CxkYpsbNikwlpqA&amp;usqp=CAU</item>
+        <item>https://i0.wp.com/www.romadecade.org/wp-content/uploads/2021/10/Tiang-Penyangga-pada-Rumah-Adat-Limas.jpg?w=709&amp;ssl=1</item>
+        <item>https://asset.kompas.com/crops/gPbio5ThOm8ztXtE0w5VVHZJ_eM=/0x42:700x392/750x500/data/photo/2021/01/17/6003d898ee6e4.jpg</item>
+        <item>https://img.iproperty.com.my/angel-legacy/1110x624-crop/static/2020/10/Rumah-Adat-Baduy-1.png</item>
+        <item>https://www.senibudayabetawi.com/wp-content/uploads/2022/09/10-Contoh-Gambar-Rumah-Betawi-Minimalis1.jpg</item>
+    </string-array>
+
+    <string-array name="data_philosophy">
+        <item>Rumah ini sengaja dirancang memanjang dari timur ke barat sehingga memiliki bentuk persegi panjang dan dimaksudkan untuk memudahkan dalam menentukan arah kiblat sholat.
+            Dikenal dengan masyarakatnya yang memegang nilai agama yang tinggi, setiap rumahnya juga memiliki jumlah anak tangga yang ganjil, sesuai dengan kepercayaan umat Islam.
+            Umumnya, di bagian depan rumah Aceh ini memiliki gentong air yang digunakan untuk tempat membersihkan kaki sebelum masuk ke rumah yang menandakan bahwa setiap tamu yang berkunjung harus memiliki niat baik.</item>
+        <item>Pondasi rumah yang sangat kokoh melambangkan masyarakat suku Batak yang selalu bersama-sama menghadapi beban yang berat. Sementara masing-masing tiang penyangga yang disebut ninggor melambangkan kejujuran dari setiap warga masyarakat.</item>
+        <item>Rumah Gadang menggambarkan alam Bukit Barisan. Puncaknya bergaris lengkung dan meninggi, sementara garis lerengnya melengkung dan mengembang ke bawah dengan bentuk bersegi tiga.
+            Pembangunan Rumah Gadang pun selalu berjajaran menurut arah mata angin dari utara ke selatan. Ini bertujuan untuk menjaga rumah dari terpaan angin yang kencang dan sengatan sinar matahari.</item>
+        <item>Rumah Salaso Jatuh Kembar dihiasi dengan banyak ukiran yang mengandung filosofi hidup. Salah satunya adalah ukiran lebah bergantung atau ombak-ombak, di mana ombak-ombak tersebut memiliki makna agar semua orang bisa hidup seperti lebah yang bermanfaat bagi orang lain.</item>
+        <item>Kali ini nilai filosofinya terletak pada moif dan ukiran yang ada di dinding Kajang Leko. Umumnya masyarakat provinsi ini menggunakan motif hewan dan tumbuhan. Motif tumbuhan bermakna bahwa masyarakat mengakui peranan hutan dalam sendi-sendi kehidupan.
+            Sedangkan motif hewan seperti motif ikan mewakikan bahwa masyarakat Jambi banyak yang berprofesi sebagai nelayan.</item>
+        <item>Bagian atas rumah yang melambangkan hubungan manusia dengan Tuhan dicirikan dengan ujung atap rumah yang memiliki ukiran khas seperti selembayung. Selembayung biasanya melambangkan ucapan rasa syukur dan penghormatan tinggi terhadap Tuhan yang Maha Esa.
+            Bagian tengah rumah berisikan berbagai macam ruangan seperti Berendo, Hal, Bilik Gedang, Bilik gadis, Ruang Tengah, Ruang Makan, Berando Belakang semua itu merupakan tempat dimana adanya interaksi sosial baik dengan sesama penghuni rumah maupun tamu. Menjaga kehormatan anak gadis dengan sebaik-baiknya juga terlihat dari adanya sebuah ruangan khusus untuk anak gadis yang bernama Bilik Gadis.
+            Bagian bawah rumah bubungan lima, yakni tiang-tiang penyangga rumah berada. Biasanya di bagian rumah tersebut ditemukan beberapa hewan ternak yang tidur di dalamnya. Selain itu, mereka juga diberi makan disana. Selain hewan ternak, hasil panen, bibit tanaman, maupun alat-alat pertanian disimpan disana. Hal ini menunjukkan bahwa konsep bangunan pada rumah ini menghargai makhluk hidup lainnya seperti hewan dan tumbuhan.</item>
+        <item>Maknanya bahwa pemilik rumah Limas mempunyai jiwa besar, memiliki strata sosial yang tinggi dengan ekonomi yang tinggi, serta memiliki kemakmuran.</item>
+        <item>Dalam bahasa daerah setempat, "Nuwo" berarti rumah atau tempat tinggal dan "Sesat'" bermakna musyawarah. Mengutip dari Kementerian Pendidikan dan Kebudayaan (Kemendikbud), Nuwo Sesat adalah tempat pertemuan adat para perwatin (penyimbang) ketika mengadakan pepung adat (musyawarah).</item>
+        <item>Bagian atap dari rumah adat Baduy terdiri atas daun yang disebut dengan sulah nyanda. Nyanda memiliki makna bersandar dalam posisi tidak lurus namun agak merebah ke arah belakang. Hal ini terlihat dari posisi sulah nyanda yang dibuat panjang dan memiliki derajat kemiringan yang lebih rendah di bagian kerangka di bawah atap. Bagian bilik rumah dan pintu dibuat dari anyaman bambu. Anyaman ini disusun dan dianyam secara vertikal yang dikenal dengan nama sarigsig. Untuk keamanan rumah, maka pemilik rumah biasanya membuat dua buah kayu yang disusun menjadi palang sehingga bisa ditarik dan didorong dari bagian luar rumah. Pembangunan rumah adat ini menggunakan material yang hampir seluruhnya berasal dari alam dengan pertimbangan kelestarian sehingga digunakan sesuai kebutuhan.</item>
+        <item>Mulai dari atap rumah yang berbentuk seperti lipatan kain kebaya, terutama di rumah kebaya.
+            Filosofi dari hal tersebut adalah karena kebaya merupakan salah satu pakaian khas yang dikenakan oleh
+            wanita-wanita yang berasal dari Betawi ketika sedang mengikuti upacara adat.Kemudian, ,
+            rumah adat Betawi memiliki latar yang luas karena ingin menggambarkan bahwa masyarakat Betawi terbuka
+            dan menghormati setiap tamu yang datang.Selain itu, pada rumah panggung terdapat tangga yang diberi nama Balaksuji.
+            Balaksuji ni memiliki filosofi sebagai penolak masuknya bala ke dalam rumah dan juga tempat untuk membersihkan diri
+            sebelum memasuki rumah.Sementara itu di beberapa rumah adat Betawi juga terdapat makam keluarga di samping rumah
+            yang bertujuan untuk mengingatkan pemilik rumah akan kematian kelak. Selain itu, posisi dari pemakaman itu supaya
+            lebih dekat ketika berziarah. Namun, seiring dengan perkembangan zaman, budaya ini sudah mulai ditinggalkan.</item>
+    </string-array>
+
+</resources>
